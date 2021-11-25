@@ -1,2 +1,2 @@
 # pneumonia-detection
-Pneumonia detection using chest x-ray
+Machine learning course project Pneumonia detection from chest x-ray image
